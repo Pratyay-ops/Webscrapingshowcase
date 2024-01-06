@@ -8,8 +8,7 @@ Sophisticated Algorithmic Data Analysis, Multifaceted Price Evaluation, and Robu
 
 ## Screenshots
 
-![screenshot](![image](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/16ae4af6-95ae-4814-8e1a-38670f376387)
-)
+![screenshot](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/16ae4af6-95ae-4814-8e1a-38670f376387)
 
 ## Step 1: Clone the repository
 use this command
@@ -33,10 +32,8 @@ Now sitback and enjoy
 ![image](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/f6c8241d-1bae-4ae6-8211-2513588115ce)
 
 ### More Snaps
-![screenshot](![image](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/fcb09c6b-e323-4d05-be85-4b3b6b58ca10)
-)
-![screenshot](![image](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/39d7749e-c7a0-4729-be2e-05b05585b821)
-)
+![screenshot](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/fcb09c6b-e323-4d05-be85-4b3b6b58ca10)
+![screenshot](https://github.com/Pratyay-ops/Webscrapingshowcase/assets/129536170/39d7749e-c7a0-4729-be2e-05b05585b821)
 ### Prerequisites
 
 - python <=3.8
