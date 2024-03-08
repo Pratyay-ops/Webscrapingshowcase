@@ -38,3 +38,9 @@ Now sitback and enjoy
 
 - python <=3.8
 
+## Acknowledgement
+Thanks to the amazing support of [Adhyetrijod](https://github.com/adhyetrijod) with Tkinter for making this project possible.
+
+## License
+
+This project is licensed under the [WTFPL license](LICENSE). Feel free to modify and distribute it according to the terms of the license.
